@@ -1,0 +1,284 @@
+{
+    "receitas": [
+      {
+        "idReceita": 1,
+        "nome": "Arroz Doce",
+        "imagem": "https://www.receitasnestle.com.br/sites/default/files/srh_recipes/2a97f0b07e23bbf8c0f9bfccd12c52da.jpg",
+        "categoria": "Sobremesa",
+        "origem": "Brasileira",
+        "instrucoes": "Em uma panela média, coloque o arroz e adicione água suficiente para cobri-lo. Cozinhe até o arroz ficar macio e a água secar. Em seguida, adicione o leite, o leite condensado e a canela em pau. Cozinhe em fogo baixo, mexendo de vez em quando para não grudar no fundo. Quando o leite começar a ferver e o arroz absorver boa parte dele, retire a panela do fogo e sirva o arroz doce. Finalize polvilhando canela em pó por cima e, se preferir, coloque cravo da Índia para dar um toque especial.",
+        "tags": "Doce, Festa Junina",
+        "video": "https://youtube.com/shorts/Ey37MO63W4A?si=K965ek5_YfmceL7u",
+        "ingredientes": [
+          {"nome": "Arroz", "quantidade": "1 xícara"},
+          {"nome": "Leite", "quantidade": "1 litro"},
+          {"nome": "Leite condensado", "quantidade": "1 lata"},
+          {"nome": "Canela", "quantidade": "a gosto"},
+          {"nome": "Água", "quantidade": "o suficiente para cobrir o arroz"}
+        ]
+      },
+      {
+        "idReceita": 2,
+        "nome": "Feijoada",
+        "imagem": "https://www.receitasnestle.com.br/sites/default/files/styles/recipe_detail_desktop_new/public/srh_recipes/5482bed2d056e82c10da30934e13ecb1.webp?itok=Q7o2y_3a",
+        "categoria": "Prato principal",
+        "origem": "Brasileira",
+        "instrucoes": "Comece o preparo da feijoada colocando o feijão em uma panela de pressão com bastante água. Deixe cozinhar por cerca de 40 minutos até que o feijão esteja bem macio. Enquanto isso, tempere as carnes com sal e alho e reserve. Quando o feijão estiver pronto, adicione as carnes já temperadas à panela de pressão, junto com a cebola picada e o louro. Cozinhe por mais 30 minutos ou até que as carnes estejam bem cozidas. Após o tempo de cozimento, retire a pressão e adicione a linguiça calabresa cortada em rodelas e o bacon em pedaços. Cozinhe por mais 10 minutos para que os sabores se misturem. Sirva com arroz branco, farofa e fatias de laranja.",
+        "tags": "Tradicional, Almoço",
+        "video": "https://youtu.be/iSRJrlQh2OY?si=5oKVM0Asvvm20yrz",
+        "ingredientes": [
+          {"nome": "Feijão preto", "quantidade": "500g"},
+          {"nome": "Carne seca", "quantidade": "200g"},
+          {"nome": "Linguiça calabresa", "quantidade": "200g"},
+          {"nome": "Alho", "quantidade": "2 dentes"},
+          {"nome": "Cebola", "quantidade": "1 unidade"},
+          {"nome": "Folhas de louro", "quantidade": "2 folhas"},
+          {"nome": "Bacon", "quantidade": "100g"},
+          {"nome": "Sal", "quantidade": "a gosto"},
+          {"nome": "Óleo", "quantidade": "para refogar"}
+        ]
+      },
+      {
+        "idReceita": 3,
+        "nome": "Bolo de Cenoura",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Peda%C3%A7o_de_Bolo_de_Cenoura%2C_08-12-2020.jpg",
+        "categoria": "Sobremesa",
+        "origem": "Brasileira",
+        "instrucoes": "Para o bolo de cenoura, comece batendo no liquidificador a cenoura, os ovos e o óleo até obter uma mistura bem homogênea. Adicione o açúcar e bata mais um pouco. Em seguida, adicione a farinha de trigo e o fermento em pó, misturando delicadamente com uma espátula. Transfira a massa para uma forma untada com manteiga e farinha de trigo. Leve ao forno pré-aquecido a 180°C e asse por aproximadamente 40 minutos ou até que, ao espetar um palito, ele saia limpo. Para a cobertura, derreta o chocolate com a manteiga em banho-maria e despeje sobre o bolo ainda quente. Deixe esfriar antes de servir.",
+        "tags": "Doce, Festa",
+        "video": "https://youtu.be/L1czIgvo3-I?si=ZkvS5tLPco6bDy6L",
+        "ingredientes": [
+          {"nome": "Cenoura", "quantidade": "3 unidades"},
+          {"nome": "Açúcar", "quantidade": "2 xícaras"},
+          {"nome": "Ovos", "quantidade": "3 unidades"},
+          {"nome": "Óleo", "quantidade": "1/2 xícara"},
+          {"nome": "Farinha de trigo", "quantidade": "2 xícaras"},
+          {"nome": "Fermento em pó", "quantidade": "1 colher de sopa"},
+          {"nome": "Chocolate meio amargo", "quantidade": "200g"},
+          {"nome": "Manteiga", "quantidade": "2 colheres de sopa"}
+        ]
+      },
+      {
+        "idReceita": 4,
+        "nome": "Pão de Queijo",
+        "imagem": "https://www.receitasnestle.com.br/sites/default/files/styles/recipe_detail_desktop_new/public/srh_recipes/6131b4013456c413556c9e811aff75d2.webp?itok=1uwNbZf4",
+        "categoria": "Lanche",
+        "origem": "Brasileira",
+        "instrucoes": "Em uma tigela, misture o polvilho doce com o queijo ralado. Em seguida, acrescente o leite, o óleo e o sal. Misture bem até formar uma massa homogênea. Adicione os ovos um a um e continue misturando até que a massa fique bem incorporada. Modele bolinhas de massa e coloque em uma assadeira untada. Leve ao forno pré-aquecido a 180°C e asse por cerca de 30 minutos ou até que fiquem dourados. Sirva quente.",
+        "tags": "Lanche, Café da manhã",
+        "video": "https://youtu.be/ePNKDew01ys",
+        "ingredientes": [
+          {"nome": "Polvilho doce", "quantidade": "500g"},
+          {"nome": "Queijo ralado", "quantidade": "300g"},
+          {"nome": "Leite", "quantidade": "1/2 xícara"},
+          {"nome": "Óleo", "quantidade": "1/4 xícara"},
+          {"nome": "Ovos", "quantidade": "2 unidades"},
+          {"nome": "Sal", "quantidade": "a gosto"}
+        ]
+      },
+      {
+        "idReceita": 5,
+        "nome": "Mousse de Maracujá",
+        "imagem": "https://www.receitasnestle.com.br/sites/default/files/styles/recipe_detail_desktop_new/public/srh_recipes/36ab75817802bedd16b7de4943c6cb57.webp?itok=B42YtKDN",
+        "categoria": "Sobremesa",
+        "origem": "Brasileira",
+        "instrucoes": "Bata no liquidificador o leite condensado, o suco de maracujá e o creme de leite até que fique bem misturado. Coloque a mistura em taças individuais e leve à geladeira por pelo menos 2 horas. Quando estiver firme, sirva com polpa de maracujá por cima.",
+        "tags": "Doce, Festa",
+        "video": "https://youtu.be/ZAIEKaFrTB8",
+        "ingredientes": [
+          {"nome": "Leite condensado", "quantidade": "1 lata"},
+          {"nome": "Suco de maracujá", "quantidade": "1/2 xícara"},
+          {"nome": "Creme de leite", "quantidade": "1 lata"},
+          {"nome": "Polpa de maracujá", "quantidade": "a gosto"}
+        ]
+      },
+      {
+        "idReceita": 6,
+        "nome": "Brigadeiro",
+        "imagem": "https://www.receitasnestle.com.br/sites/default/files/styles/recipe_detail_desktop_new/public/srh_recipes/1a884bcbc5b04d71476d2995d51d0140.webp?itok=rmjzBAur",
+        "categoria": "Doce",
+        "origem": "Brasileira",
+        "instrucoes": "Em uma panela, coloque o leite condensado, o achocolatado em pó e a manteiga. Cozinhe em fogo baixo, mexendo constantemente, até que a mistura comece a desgrudar do fundo da panela. Quando atingir o ponto de brigadeiro, retire do fogo e deixe esfriar. Modele bolinhas e passe no granulado.",
+        "tags": "Doce, Festa de aniversário",
+        "video": "https://youtu.be/6b8mygSR51s",
+        "ingredientes": [
+          {"nome": "Leite condensado", "quantidade": "1 lata"},
+          {"nome": "Achocolatado em pó", "quantidade": "2 colheres de sopa"},
+          {"nome": "Manteiga", "quantidade": "1 colher de sopa"},
+          {"nome": "Granulado", "quantidade": "a gosto"}
+        ]
+      },
+      {
+        "idReceita": 7,
+        "nome": "Torta de Limão",
+        "imagem": "https://www.receitasnestle.com.br/sites/default/files/styles/recipe_detail_desktop_new/public/oembed_thumbnails/ST-EmUyV14Qv159dxB4L4pWYb-d9L7K0jY8e1rKvSk0.webp?itok=3itAQwTt",
+        "categoria": "Sobremesa",
+        "origem": "Brasileira",
+        "instrucoes": "Bata no liquidificador o leite condensado, o suco de limão e o creme de leite até que fique bem homogêneo. Em uma forma, coloque a mistura e leve ao congelador por pelo menos 4 horas. Após esse tempo, retire e sirva com raspas de limão por cima.",
+        "tags": "Doce, Festa",
+        "video": "https://youtu.be/kf2RWtoV4f0",
+        "ingredientes": [
+          {"nome": "Leite condensado", "quantidade": "1 lata"},
+          {"nome": "Suco de limão", "quantidade": "1/2 xícara"},
+          {"nome": "Creme de leite", "quantidade": "1 lata"},
+          {"nome": "Raspas de limão", "quantidade": "a gosto"}
+        ]
+      },
+      {
+        "idReceita": 8,
+        "nome": "Salada Grega",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/GreekSalad.jpg/250px-GreekSalad.jpg",
+        "categoria": "Salada",
+        "origem": "Grega",
+        "instrucoes": "Em uma tigela, misture os tomates, o pepino, a cebola roxa, o pimentão e as azeitonas. Adicione o queijo feta em cubos. Tempere com azeite, suco de limão, sal e orégano. Misture delicadamente e sirva.",
+        "tags": "Salada, Leve, Verão, Mediterrânea",
+        "video": "https://www.youtube.com/watch?v=vrZsaahUDms",
+        "ingredientes": [
+          { "nome": "Tomate", "quantidade": "2 unidades picadas" },
+          { "nome": "Pepino", "quantidade": "1 unidade em rodelas" },
+          { "nome": "Cebola roxa", "quantidade": "1/2 unidade fatiada" },
+          { "nome": "Pimentão verde", "quantidade": "1/2 unidade em tiras" },
+          { "nome": "Azeitonas pretas", "quantidade": "1/2 xícara" },
+          { "nome": "Queijo feta", "quantidade": "100g em cubos" },
+          { "nome": "Azeite de oliva", "quantidade": "2 colheres de sopa" },
+          { "nome": "Suco de limão", "quantidade": "1 colher de sopa" },
+          { "nome": "Sal", "quantidade": "a gosto" },
+          { "nome": "Orégano", "quantidade": "a gosto" }
+        ]
+      },
+      {
+        "idReceita": 9,
+        "nome": "Salada de Frutas",
+        "imagem": "https://www.receitasnestle.com.br/sites/default/files/styles/recipe_detail_desktop_new/public/srh_recipes/34dab6ee74768a413c8e215435bbd653.webp?itok=Tq8EANIh",
+        "categoria": "Sobremesa",
+        "origem": "Brasileira",
+        "instrucoes": "Escolha suas frutas preferidas, como maçã, manga, banana, abacaxi, laranja e morango. Corte-as em pedaços pequenos e misture tudo em uma tigela. Se quiser, adicione um pouco de açúcar ou mel para dar um toque doce. Sirva bem gelada.",
+        "tags": "Saudável, Verão",
+        "video": "https://youtube.com/shorts/WjQuK_lsWZQ?si=RMJ3xK204Ra8O-LF",
+        "ingredientes": [
+          {"nome": "Maçã", "quantidade": "1 unidade"},
+          {"nome": "Banana", "quantidade": "1 unidade"},
+          {"nome": "Abacaxi", "quantidade": "1/2 unidade"},
+          {"nome": "Laranja", "quantidade": "1 unidade"},
+          {"nome": "Manga", "quantidade": "1 unidade"},
+          {"nome": "Morango", "quantidade": "a gosto"},
+          {"nome": "Açúcar, mel ou leite condensado", "quantidade": "a gosto"}
+        ]
+      },
+      {
+        "idReceita": 10,
+        "nome": "Macarrão à Bolonhesa",
+        "imagem": "https://www.receitasnestle.com.br/sites/default/files/styles/crop_article_banner_desktop_nes/public/2020-06/orcamento-apertado-inteligencia-na-cozinha_0.webp?itok=jeMRv16R",
+        "categoria": "Prato principal",
+        "origem": "Italiana",
+        "instrucoes": "Em uma panela, aqueça o óleo e refogue a cebola e o alho. Adicione a carne moída e cozinhe até que fique dourada. Em seguida, adicione o molho de tomate, o sal e a pimenta, e cozinhe por mais 15 minutos. Cozinhe o macarrão conforme as instruções da embalagem. Sirva o molho bolonhesa sobre o macarrão e polvilhe com queijo ralado.",
+        "tags": "Prato principal, Massa",
+        "video": "https://youtu.be/6NpP_aiGzAM",
+        "ingredientes": [
+          {"nome": "Macarrão", "quantidade": "500g"},
+          {"nome": "Carne moída", "quantidade":"300g"}, 
+          {"nome": "Molho de tomate", "quantidade": "1 lata"}, 
+          {"nome": "Cebola", "quantidade": "1 unidade"}, 
+          {"nome": "Alho", "quantidade": "2 dentes"}, 
+          {"nome": "Sal e pimenta", "quantidade": "a gosto"}, 
+          {"nome": "Queijo ralado", "quantidade": "a gosto"} 
+          ]
+    },
+    {
+        "idReceita": 11,
+        "nome": "Moqueca de Peixe",
+        "imagem": "https://i.ytimg.com/vi/GIIY6JQ-r3E/sddefault.jpg",
+        "categoria": "Prato principal",
+        "origem": "Brasileira",
+        "instrucoes": "Tempere o peixe com sal, limão e alho e deixe marinando por 30 minutos. Em uma panela grande, aqueça o azeite de dendê e refogue a cebola, o tomate e o pimentão. Acrescente o peixe e o leite de coco. Tampe e cozinhe em fogo baixo por 20 minutos ou até o peixe estar macio e o molho encorpado. Finalize com coentro picado e sirva com arroz branco.",
+        "tags": "Peixe, Tradicional",
+        "video": "https://youtu.be/x4nmNRT8rZQ?si=tasX0XOr64WHTX7h",
+        "ingredientes": [
+          {"nome": "Filé de piramutaba", "quantidade": "500g"},
+          {"nome": "Leite de coco", "quantidade": "1 vidro"},
+          {"nome": "Tomate", "quantidade": "2 unidades"},
+          {"nome": "Pimentão", "quantidade": "1 unidade"},
+          {"nome": "Cebola", "quantidade": "1 unidade"},
+          {"nome": "Alho", "quantidade": "2 dentes"},
+          {"nome": "Azeite de dendê", "quantidade": "2 colheres de sopa"},
+          {"nome": "Sal", "quantidade": "a gosto"},
+          {"nome": "Limão", "quantidade": "1 unidade"},
+          {"nome": "Coentro", "quantidade": "a gosto"}
+        ]
+      },
+      {
+        "idReceita": 12,
+        "nome": "Panqueca de Carne Moída",
+        "imagem": "https://i.ytimg.com/vi/hBGqcogtJ1w/maxresdefault.jpg",
+        "categoria": "Prato principal",
+        "origem": "Internacional",
+        "instrucoes": "Bata no liquidificador os ovos, o leite, a farinha e o sal até obter uma massa lisa. Em uma frigideira untada, despeje porções da massa formando discos finos. Para o recheio, refogue a carne com cebola, alho, sal e temperos a gosto. Recheie as panquecas, enrole e disponha em um refratário. Cubra com molho de tomate e leve ao forno para gratinar.",
+        "tags": "Refeição, Fácil",
+        "video": "https://youtu.be/hBGqcogtJ1w?si=WPfh6Punf_AIgGR9",
+        "ingredientes": [
+          {"nome": "Leite", "quantidade": "1 xícara"},
+          {"nome": "Ovos", "quantidade": "2 unidades"},
+          {"nome": "Farinha de trigo", "quantidade": "1 xícara"},
+          {"nome": "Carne moída", "quantidade": "300g"},
+          {"nome": "Molho de tomate", "quantidade": "1 xícara"},
+          {"nome": "Cebola", "quantidade": "1 unidade"},
+          {"nome": "Alho", "quantidade": "2 dentes"},
+          {"nome": "Sal", "quantidade": "a gosto"},
+          {"nome": "Óleo", "quantidade": "para untar"}
+        ]
+      },
+      {
+        "idReceita": 13,
+        "nome": "Omelete de Forno",
+        "imagem": "https://i.ytimg.com/vi/e0bszV81SsA/maxresdefault.jpg",
+        "categoria": "Lanche",
+        "origem": "Brasileira",
+        "instrucoes": "Em uma tigela, bata os ovos com o leite, o sal, a pimenta e o queijo ralado. Acrescente os legumes picados, como tomate, cebola, e cenoura ralada. Coloque tudo em uma assadeira untada e leve ao forno preaquecido a 200°C por cerca de 30 minutos ou até dourar.",
+        "tags": "Rápido, Saudável",
+        "video": "https://youtu.be/e0bszV81SsA?si=7Zrr9FqQiVabdkaR",
+        "ingredientes": [
+          {"nome": "Ovos", "quantidade": "4 unidades"},
+          {"nome": "Leite", "quantidade": "1/2 xícara"},
+          {"nome": "Queijo ralado", "quantidade": "1/2 xícara"},
+          {"nome": "Tomate", "quantidade": "1 unidade"},
+          {"nome": "Cenoura ralada", "quantidade": "1 unidade"},
+          {"nome": "Cebola", "quantidade": "1/2 unidade"},
+          {"nome": "Sal e pimenta", "quantidade": "a gosto"}
+        ]
+      },
+      {
+        "idReceita": 14,
+        "nome": "Broa de Milho Caseira",
+        "imagem": "https://i.ytimg.com/vi/a1GahnhtOLE/maxresdefault.jpg",
+        "categoria": "Café da manhã",
+        "origem": "Brasileira",
+        "instrucoes": "Pré-aqueça o forno a 180°C. Em uma tigela, misture os ovos, o leite, o óleo e o açúcar. Acrescente o fubá e a farinha de trigo, misturando bem. Por último, adicione o fermento. Modele as broas com as mãos ou com a ajuda de duas colheres, coloque em uma assadeira untada e leve ao forno por 20 a 25 minutos ou até ficarem douradinhas.",
+        "tags": "Mineira, Tradicional, Assada",
+        "video": "https://youtu.be/a1GahnhtOLE?si=YVrluGqFFGoSyzEl",
+        "ingredientes": [
+          { "nome": "Fubá", "quantidade": "2 xícaras" },
+          { "nome": "Farinha de trigo", "quantidade": "1 xícara" },
+          { "nome": "Açúcar", "quantidade": "1 xícara" },
+          { "nome": "Leite", "quantidade": "1 xícara" },
+          { "nome": "Óleo", "quantidade": "1/2 xícara" },
+          { "nome": "Ovos", "quantidade": "2 unidades" },
+          { "nome": "Fermento em pó", "quantidade": "1 colher de sopa" }
+        ]
+      },
+      {
+        "idReceita": 15,
+        "nome": "Tapioca com Coco e Leite Condensado",
+        "imagem": "https://i.ytimg.com/vi/_VKeDHgps1Y/maxresdefault.jpg",
+        "categoria": "Lanche",
+        "origem": "Brasileira",
+        "instrucoes": "Aqueça uma frigideira antiaderente e espalhe a goma de tapioca até formar um disco. Deixe firmar e vire. Recheie com coco ralado e leite condensado. Dobre ao meio e sirva quente.",
+        "tags": "Doce, Rápido",
+        "video": "https://youtu.be/_VKeDHgps1Y?si=ck9d0h-V75xCLezb",
+        "ingredientes": [
+          {"nome": "Goma de tapioca", "quantidade": "1 xícara"},
+          {"nome": "Coco ralado", "quantidade": "1/2 xícara"},
+          {"nome": "Leite condensado", "quantidade": "a gosto"}
+        ]
+      }
+]
+}
