@@ -9,16 +9,44 @@
 </head>
 <body>
     <main class="container">
-        <div class="banner"><img src="img/banner.png" alt=""></div>
+
+        <div class="banner">
+            <img src="img/banner.png" alt="">
+        </div>
+
         <h1>Pesquise a receita</h1>
+
         <form class="search-form">
             <input type="text" placeholder="Digite a receita ou o ingrediente" class="search-input">
             <button class="search-button" type="submit">Buscar</button>
         </form>
+
+       <div class="nova-button"> <button onclick="toggleCreateForm()">Nova Receita</button>
+        </div>
+
+        <div id="create-form" style="display:none; margin-top:20px;">
+            <h2>Criar Receita</h2>
+
+            <input id="r-nome" placeholder="Nome">
+            <input id="r-img" placeholder="URL da imagem">
+            <input id="r-cat" placeholder="Categoria">
+            <input id="r-org" placeholder="Origem">
+
+            <textarea id="r-inst" placeholder="Instruções"></textarea>
+            <textarea id="r-tags" placeholder="Tags (separadas por vírgula)"></textarea>
+            <textarea id="r-ing" placeholder="ingrediente|quantidade (um por linha)"></textarea>
+
+            <input id="r-video" placeholder="URL do vídeo">
+
+            <button onclick="saveNewRecipe()" style="margin-top:10px;">Salvar Receita</button>
+        </div>
+
         <div class="loading"></div>
         <div class="recipe-list"></div>
         <div class="recipe-details"></div>
+
     </main>
+
+    <script src="script.js"></script>
 </body>
-<script src="script.js"></script>
 </html>

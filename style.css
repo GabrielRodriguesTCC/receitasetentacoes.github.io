@@ -51,6 +51,11 @@ h1 {
     transition: 0.5s;
 }
 
+.nova-button {
+    outline: none;
+    border: none;
+}
+
 .recipe-list {
     display: grid;
     gap: 20px;
